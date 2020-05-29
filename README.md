@@ -1,2 +1,0 @@
-# SardiMarJuego
-Juego de plataformas
